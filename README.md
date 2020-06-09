@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+**Build status**
+
+[![CircleCI](https://circleci.com/gh/KrainskiL/ml_microservice.svg?style=svg)](https://circleci.com/gh/KrainskiL/ml_microservice)
 
 ## Project Overview
 
